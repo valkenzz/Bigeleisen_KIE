@@ -4,9 +4,9 @@ import numpy as np
 ################################################
 #Parameters : 
 #Planck constant (J/Hz)
-h=6.62*10**-34
+h=6.62607004*10**-34
 #Boltzmann constant (J/K)
-kB=1.38*10**-23
+kB=1.38064852*10**-23
 #Light velocity in vaccum (m/s)
 c=299792458.0
 
