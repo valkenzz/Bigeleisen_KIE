@@ -4,7 +4,7 @@ library which provides tools capable of calculating the Kinetic Isotope Effect a
 
 ## Installation
 
-Use the package manager [pip](https://pypi.org/project/Bigeleisen-KIE/) to install foobar.
+Use the package manager [pip](https://pypi.org/project/Bigeleisen-KIE/) to install the library.
 
 ```bash
 pip install Bigeleisen-KIE
