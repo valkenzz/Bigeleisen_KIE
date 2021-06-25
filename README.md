@@ -26,7 +26,9 @@ kie.KIE(isH,isD,tsH,tsD,T)
 ```
 but you can use excel file in this repository, fill the excel, then pass the path in KieCalculationWithExcel.py then you have just to execute the script for calculate the kie
 
+## contact
 
+For any question or bug don't hesitate to contact me at  <strong>valentin.meo.1@ulaval.ca</strong> or use github at : https://github.com/valkenzz/Bigeleisen_KIE
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
