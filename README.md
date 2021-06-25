@@ -16,6 +16,7 @@ More particularly we use the equation figur 1 [2]. this equation Neglect tunneli
 
 #### source 
  [1] Atkins P, de Paula J (2006). Atkins' Physical Chemistry (8th ed.). Oxford University Press. pp. 286–288, 816–818. ISBN 978-0-19-870072-2.
+ 
  [2]WIREs Comput Mol Sci 2016. doi: 10.1002/wcms.1268
 
 
