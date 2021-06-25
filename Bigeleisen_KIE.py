@@ -41,7 +41,7 @@ def Operation(Data1,Data2):
 def Ui(Data,T):
     return pd.Series(Data).apply(lambda x : np.sinh(float(x)*((h*100*c)/(2.0*kB*float(T)))))
 
-#Function which takes in entry the lists of frequencies(cm-1) and the temperature(K) and gives the KIE
+#Function which takes in entry the lists of frequencies (cm-1) and the temperature (K) and gives the KIE
 #isH is the vibration frequencies of the molecule containing the light isotope at the initial state
 #isD is the vibration frequencies of the molecule containing the heavy isotope at the initial state
 #tsH is the vibration frequencies of the molecule containing the light isotope at the transition state
