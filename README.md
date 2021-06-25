@@ -26,6 +26,14 @@ kie.KIE(isH,isD,tsH,tsD,T)
 ```
 but you can use excel file in this repository, fill the excel, then pass the path in KieCalculationWithExcel.py then you have just to execute the script for calculate the kie
 
+## repository
+Bigeleisen_KIE.py is the module, with all function for calculate the kie
+
+KIE_Vibration.xlsx is the excel you can use for a better "user friendly" experience
+
+KieCalculationWithExcel.py you can use with the excel for calculate the kie, that show an example
+
+
 ## environement/requirement
 
 pandas and numpy
