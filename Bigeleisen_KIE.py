@@ -39,7 +39,7 @@ def Operation(Data1,Data2):
 
 #Function which takes one list of vibration frequencies to give the sinh of Ui = h*x/(kB*T) according to the Biegelheisen equation
 def Ui(Data,T):
-    return pd.Series(Data).apply(lambda x : np.sinh(float(x)*((h*100*c)/(2.0*kB*T))))
+    return pd.Series(Data).apply(lambda x : np.sinh(float(x)*((h*100*c)/(2.0*kB*float(T)))))
 
 #Function which takes in entry the lists of frequencies(cm-1) and the temperature(K) and gives the KIE
 def KIE(isH,isD,tsH,tsD,T):
