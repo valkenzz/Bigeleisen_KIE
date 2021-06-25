@@ -9,3 +9,10 @@ Use the package manager [pip](https://pypi.org/project/Bigeleisen-KIE/) to insta
 ```bash
 pip install Bigeleisen-KIE
 ```
+## Usage
+
+```python
+import Bigeleisen_KIE as kie
+
+kie.KIE()
+```
