@@ -3,6 +3,9 @@ library which provides tools capable of calculating the Kinetic Isotope Effect a
 
 kie is the change in the reaction rate of a chemical reaction when one of the atoms in the reactants is replaced by one of its isotopes[1].Formally, it is the ratio of rate constants for the reactions involving the light and the heavy isotopically substituted reactants.
 
+More particularly we use the equation figur 1 [2]. this equation Neglect tunneling effect.
+
+
 ## Installation
 
 Use the package manager [pip](https://pypi.org/project/Bigeleisen-KIE/) to install the library.
