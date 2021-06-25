@@ -12,6 +12,7 @@ pip install Bigeleisen-KIE
 ## Usage
 
 ```python
+#we inport the library
 import Bigeleisen_KIE as kie
 
 #isH is the vibration frequencies of the molecule containing the light isotope at the initial state
@@ -20,7 +21,7 @@ import Bigeleisen_KIE as kie
 #tsD is the vibration frequencies of the molecule containing the heavy isotope at the transition state
 #T is the temperature in Kelvin
 
-
+#function to calculate the kie
 kie.KIE(isH,isD,tsH,tsD,T)
 ```
 but you can use excel file in this repository, fill the excel, then pass the path in KieCalculationWithExcel.py then you have just to execute the script for calculate the kie
