@@ -1,6 +1,7 @@
 # Bigeleisen_KIE
 library which provides tools capable of calculating the Kinetic Isotope Effect according to the Bigeleisen equation
 
+kie is the change in the reaction rate of a chemical reaction when one of the atoms in the reactants is replaced by one of its isotopes[1].Formally, it is the ratio of rate constants for the reactions involving the light and the heavy isotopically substituted reactants
 
 ## Installation
 
