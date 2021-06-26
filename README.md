@@ -57,7 +57,7 @@ import Bigeleisen_KIE as kie
 #function to calculate the kie
 kie.KIE(isH,isD,tsH,tsD,T)
 ```
-but you can use excel file in this repository, fill the excel, then pass the path in KieCalculationWithExcel.py then you have just to execute the script for calculate the kie
+but you can use excel file in this repository, fill the excel, then execute KieCalculationWithExcel.py in the same directori, or pass the path of the excell then you have just to execute the script for calculate the kie
 
 ## repository
 Bigeleisen_KIE.py is the module, with all function for calculate the kie
