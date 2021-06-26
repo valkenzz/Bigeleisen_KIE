@@ -1,14 +1,14 @@
 # Bigeleisen_KIE
-library which provides tools capable of calculating the Kinetic Isotope Effect according to the Bigeleisen equation
+Library which provides tools capable of calculating the Kinetic Isotope Effect according to the Bigeleisen equation
 
-kie is the change in the reaction rate of a chemical reaction when one of the atoms in the reactants is replaced by one of its isotopes[1].Formally, it is the ratio of rate constants for the reactions involving the light and the heavy isotopically substituted reactants.
+KIE is the change of the reaction rate of a chemical reaction when one of the atoms in the reactants is replaced by one of its isotopes[1].Formally, it is the ratio of rate constants for the reactions involving the light and the heavy isotopically substituted reactants.
 
-More particularly we use the equation figur 1 [2]. this equation Neglect tunneling effect.
+More particularly we use the equation figur 1 [2]. this equation neglect tunneling effect.
 
 """
 ![image](https://user-images.githubusercontent.com/40594333/123495703-0fac0d80-d625-11eb-951f-988fb96460be.png)
 
-fig1 : the KIE equation are implemente
+Fig1 : the KIE equation are implemented
 
 where the subscripts l and h stand for the light and
 heavy isotopes, respectively, kl and kh are the respective
@@ -27,12 +27,12 @@ h is Planck’s constant.
 """
 
 
-we used method to determine the KIE just using harmonic vibrational frequencie. The Bigeleisen equation can be extended beyond the harmonic vibrational approximation and including quantum tunneling effects in the framework of Feynman path integrals.
+We used method to determine the KIE just using harmonic vibrational frequencies. The Bigeleisen equation can be extended beyond the harmonic vibrational approximation and including quantum tunneling effects in the framework of Feynman path integrals.
 
-#### source 
+#### Sources 
  [1] Atkins P, de Paula J (2006). Atkins' Physical Chemistry (8th ed.). Oxford University Press. pp. 286–288, 816–818. ISBN 978-0-19-870072-2.
  
- [2]WIREs Comput Mol Sci 2016. doi: 10.1002/wcms.1268
+ [2] WIREs Comput Mol Sci 2016. doi: 10.1002/wcms.1268
 
 
 ## Installation
@@ -45,7 +45,7 @@ pip install Bigeleisen-KIE
 ## Usage
 
 ```python
-#we inport the library
+#We inport the library
 import Bigeleisen_KIE as kie
 
 #isH is the vibration frequencies of the molecule containing the light isotope at the initial state
@@ -57,24 +57,24 @@ import Bigeleisen_KIE as kie
 #function to calculate the kie
 kie.KIE(isH,isD,tsH,tsD,T)
 ```
-but you can use excel file in this repository, fill the excel, then execute KieCalculationWithExcel.py in the same directori, or pass the path of the excell then you have just to execute the script for calculate the kie
+You can also use excel file in this repository: fill the excel, then execute KieCalculationWithExcel.py in the same directory or change the path of the excel file, then execute the script to calculate the KIE.
 
-## repository
-Bigeleisen_KIE.py is the module, with all function for calculate the kie
+## Repository
+Bigeleisen_KIE.py is the module with all functions to calculate the KIE.
 
-KIE_Vibration.xlsx is the excel you can use for a better "user friendly" experience
+KIE_Vibration.xlsx is the excel you can use for a better "user friendly" experience.
 
-KieCalculationWithExcel.py you can use with the excel for calculate the kie, that show an example
+KieCalculationWithExcel.py you can use with the excel to calculate the KIE.
 
 
-## environement/requirement
+## Environement/Requirement
 
 pandas and numpy
 
 
-## contact
+## Contact
 
-For any question or bug don't hesitate to contact me at  <strong>valentin.meo.1@ulaval.ca</strong> or use github at : https://github.com/valkenzz/Bigeleisen_KIE
+For any question or bug, don't hesitate to contact me at  <strong>valentin.meo.1@ulaval.ca</strong> or use github at : https://github.com/valkenzz/Bigeleisen_KIE
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
