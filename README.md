@@ -16,7 +16,8 @@ heavy isotopes,
 at the transition state structure,
 N is the number of normal mode frequency,
 ‡ denote the transition state structure,
-υi is the ith normal mode frequency of the corresponding isotopolog,
+υi is the ith normal mode frequency of the corresponding isotopolog (l or
+h),
 kB is Boltzmann’s constant, T is temperature, and
 h is Planck’s constant,C the celerity of light in the vaccum.
 
