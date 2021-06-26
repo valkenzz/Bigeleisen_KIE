@@ -10,7 +10,7 @@ More particularly we use the equation figur 1 [2]. this equation neglect tunneli
 
 Fig1 : the KIE equation are implemented
 
-where the subscripts l and h stand for the light and
+Where the subscripts l and h stand for the light and
 heavy isotopes,
 υl*/υh* is the ratio of the imaginary frequencies
 at the transition state structure,
