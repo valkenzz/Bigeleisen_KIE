@@ -9,10 +9,7 @@ More particularly we use the equation figur 1 [2]. this equation Neglect tunneli
 
 
 
-
-
-
-
+we used method to determine the KIE just using harmonic vibrational frequencie. The Bigeleisen equation can be extended beyond the harmonic vibrational approximation and including quantum tunneling effects in the framework of Feynman path integrals.
 
 #### source 
  [1] Atkins P, de Paula J (2006). Atkins' Physical Chemistry (8th ed.). Oxford University Press. pp. 286–288, 816–818. ISBN 978-0-19-870072-2.
