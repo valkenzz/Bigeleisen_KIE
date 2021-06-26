@@ -19,9 +19,9 @@ N is the number of normal mode frequency,
 υi is the ith normal mode frequency of the corresponding isotopolog (l or
 h),
 kB is Boltzmann’s constant, T is temperature, and
-h is Planck’s constant,C the celerity of light in the vaccum.
+h is Planck’s constant, c the celerity of light in the vaccum.
 
-
+Warning : Frequencies are in cm-1
 
 We used method to determine the KIE just using harmonic vibrational frequencies. The Bigeleisen equation can be extended beyond the harmonic vibrational approximation and including quantum tunneling effects in the framework of Feynman path integrals.
 
