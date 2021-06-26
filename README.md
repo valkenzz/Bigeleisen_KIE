@@ -5,14 +5,17 @@ KIE is the change of the reaction rate of a chemical reaction when one of the at
 
 More particularly we use the equation figur 1 [2]. this equation neglect tunneling effect.
 
-"""
-![image](https://user-images.githubusercontent.com/40594333/123495703-0fac0d80-d625-11eb-951f-988fb96460be.png)
+
+![image](https://user-images.githubusercontent.com/40594333/123512125-056e2b80-d686-11eb-9221-910ddcd27c06.png)
 
 Fig1 : the KIE equation are implemented
 
 where the subscripts l and h stand for the light and
-heavy isotopes, respectively, kl and kh are the respective
-rate constants, υ*l
+heavy isotopes,
+
+\text{v}
+
+υl*/
 υ*
 h
 is the ratio of the imaginary frequencies
@@ -24,7 +27,6 @@ h), ‡ denote the transition state structure, ui = hυi
 kB is Boltzmann’s constant, T is temperature, and
 h is Planck’s constant.
 
-"""
 
 
 We used method to determine the KIE just using harmonic vibrational frequencies. The Bigeleisen equation can be extended beyond the harmonic vibrational approximation and including quantum tunneling effects in the framework of Feynman path integrals.
