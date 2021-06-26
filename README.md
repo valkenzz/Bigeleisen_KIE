@@ -7,10 +7,21 @@ More particularly we use the equation figur 1 [2]. this equation Neglect tunneli
 
 """
 ![image](https://user-images.githubusercontent.com/40594333/123495703-0fac0d80-d625-11eb-951f-988fb96460be.png)
-=> refaire
-fig1 : the KIE forme are implemente
+fig1 : the KIE equation are implemente
 
-where .....
+where the subscripts l and h stand for the light and
+heavy isotopes, respectively, kl and kh are the respective
+rate constants, υ*l
+υ*
+h
+is the ratio of the imaginary frequencies
+at the transition state structure, N is the number
+of atoms of the supermolecule, υi is the ith normal
+mode frequency of the corresponding isotopolog (l or
+h), ‡ denote the transition state structure, ui = hυi
+2kBT,
+kB is Boltzmann’s constant, T is temperature, and
+h is Planck’s constant.
 
 """
 
