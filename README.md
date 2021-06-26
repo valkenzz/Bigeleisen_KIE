@@ -13,19 +13,14 @@ Fig1 : the KIE equation are implemented
 where the subscripts l and h stand for the light and
 heavy isotopes,
 
-\text{v}
 
-υl*/
-υ*
-h
-is the ratio of the imaginary frequencies
-at the transition state structure, N is the number
-of atoms of the supermolecule, υi is the ith normal
-mode frequency of the corresponding isotopolog (l or
-h), ‡ denote the transition state structure, ui = hυi
-2kBT,
+υl*/υh* is the ratio of the imaginary frequencies
+at the transition state structure,
+N is the number of normal mode frequency,
+‡ denote the transition state structure,
+υi is the ith normal mode frequency of the corresponding isotopolog,
 kB is Boltzmann’s constant, T is temperature, and
-h is Planck’s constant.
+h is Planck’s constant,C the celerity of light in the vaccum.
 
 
 
