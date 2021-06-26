@@ -5,14 +5,14 @@ kie is the change in the reaction rate of a chemical reaction when one of the at
 
 More particularly we use the equation figur 1 [2]. this equation Neglect tunneling effect.
 
-
-
-![image.png](attachment:image.png)=> refaire
+"""
+![image](https://user-images.githubusercontent.com/40594333/123495703-0fac0d80-d625-11eb-951f-988fb96460be.png)
+=> refaire
 fig1 : the KIE forme are implemente
 
 where .....
 
-
+"""
 
 
 we used method to determine the KIE just using harmonic vibrational frequencie. The Bigeleisen equation can be extended beyond the harmonic vibrational approximation and including quantum tunneling effects in the framework of Feynman path integrals.
