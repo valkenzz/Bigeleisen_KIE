@@ -7,6 +7,12 @@ More particularly we use the equation figur 1 [2]. this equation Neglect tunneli
 
 
 
+![image.png](attachment:image.png)=> refaire
+fig1 : the KIE forme are implemente
+
+where .....
+
+
 
 
 we used method to determine the KIE just using harmonic vibrational frequencie. The Bigeleisen equation can be extended beyond the harmonic vibrational approximation and including quantum tunneling effects in the framework of Feynman path integrals.
