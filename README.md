@@ -70,7 +70,7 @@ pandas and numpy
 
 ## Contact
 
-For any question or bug, don't hesitate to contact me at  <strong>valentin.meo.1@ulaval.ca</strong> or use github at : https://github.com/valkenzz/Bigeleisen_KIE
+For any question or bug, don't hesitate to contact me or use github at : https://github.com/valkenzz/Bigeleisen_KIE
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
